@@ -1,0 +1,43 @@
+/* .personalCard{
+    background-color: white;
+}
+
+.card{
+    border-radius: 50%;
+} */
+.ulContainer{
+    bottom: 10px;
+    left: 50%;
+}
+
+.greenIcon{
+    background-color: #007F70 !important;
+    color: white !important;
+}
+
+
+.iconContainer{
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.horizontalLine{
+    height: 1px;
+    width: 85%;
+    background-color: rgba(0, 0, 0 , 1);
+    margin-bottom: 1rem;
+}
+
+.greenColor{
+    color: #007F70 !important;
+}
+
+a{
+    text-decoration: none;
+}
